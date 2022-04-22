@@ -18,7 +18,6 @@
  
   ##
   
-  
 <div>
  <img align="right" alt="Jelson-Olá" height="150" width="100" src="https://media.discordapp.net/attachments/881675315439611924/882758897700569098/Webp.net-gifmaker.gif?width=453&height=453">
 </div>
