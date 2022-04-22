@@ -2,7 +2,7 @@
 
 - Sou calouro de Eng. Software - UEPG 🕢🕚🏫🎓
 - Bem como estudante de programação ☕💾💻
-- Nerd e futuro programador! 📓👨‍💻   
+- Fique a vontade para ver os meus projetos! 📓👨‍💻   
 
 <div>
   <a href="https://github.com/JelsonJr">
