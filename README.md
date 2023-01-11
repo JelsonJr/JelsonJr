@@ -2,6 +2,7 @@
 
 - Sou calouro de Eng. Software - UEPG 🕢🕚🏫🎓
 - Bem como estudante de programação ☕💾💻
+- Programador Júnior na Best Use! 👨‍💻💻
 - Fique a vontade para ver os meus projetos! 📓👨‍💻   
 
 <div align="center">
