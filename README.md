@@ -1,7 +1,6 @@
 ## Olá! Me chamo Jelson *(acho que o nome do perfil entregou isso)*, seja bem-vindo(a) ao meu perfil!
 
-- Sou calouro de Eng. Software - UEPG 🕢🕚🏫🎓
-- Bem como estudante de programação ☕💾💻
+- Sou estudante de Eng. Software - UEPG 🕢🕚🏫🎓
 - Programador Júnior na Best Use! 👨‍💻💻
 - Fique a vontade para ver os meus projetos! 📓👨‍💻   
 
