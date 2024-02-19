@@ -30,6 +30,6 @@
 ## Linguagens, Frameworks e Skills:
 <p align="center">
   <a href="https://jelson-dev.vercel.app" target="_blank">
-    <img src="https://skillicons.dev/icons?i=java,kotlin,maven,spring,c,cpp,js,ts,nodejs,react,vue,tailwind,git,github,docker,linux,mongodb,mysql&perline=6" alt="Icon de linguagens, frameworks e skills que domino" />
+    <img src="https://skillicons.dev/icons?i=java,kotlin,maven,spring,c,cpp,js,ts,nodejs,react,vue,nginx,git,github,docker,linux,mongodb,mysql&perline=6" alt="Icon de linguagens, frameworks e skills que domino" />
   </a>
 </p>
