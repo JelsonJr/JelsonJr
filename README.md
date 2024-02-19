@@ -1,28 +1,35 @@
-## Olá! Me chamo Jelson *(acho que o nome do perfil entregou isso)*, seja bem-vindo(a) ao meu perfil!
+<h1 align="center">Olá! Me chamo Jelson, seja bem-vindo(a) ao meu perfil!</h1>
 
-- Sou estudante de Eng. Software - UEPG 🕢🕚🏫🎓
-- Programador Júnior na Best Use! 👨‍💻💻
-- Fique a vontade para ver os meus projetos! 📓👨‍💻   
+<section align="center">
+  <img  alt="Jelson-Olá" height="20%" width="50%" src="https://media.discordapp.net/attachments/881675315439611924/882758897700569098/Webp.net-gifmaker.gif?width=453&height=453">
+  <br>
+ <div>
+    <a href="https://www.linkedin.com/in/jelson-rodrigues-53333a229?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app" target="_blank">
+      <img alt="Icon para LinkedIn" height="5%" width="10%" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+    </a>
+    <a href="https://jelson-dev.vercel.app" target="_blank">
+      <img alt="Icon para meu website" height="5%" width="10%" src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white">
+    </a>
+    <a href="https://www.instagram.com/rodrigues_jelsonjr" target="_blank">
+      <img alt="Icon para meu instagram" height="5%" width="10%" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+    </a>
+  </div>
+</section>
 
+  - Sou estudante de Eng. Software - [**_UEPG_**](https://www.uepg.br/) 🧑🏽‍🎓
+  - Programador FullStack Júnior - [**_Best Use_**](https://www.bestuse.com.br) 👨🏻‍💻
+  - Fique à vontade para ver os meus projetos! 📚
+
+## Dados e Status (Github):
 <div align="center">
   <a href="https://github.com/JelsonJr">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JelsonJr&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JelsonJr&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Jelson-Js" height="40" width="70" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
-  <img align="center" alt="Jelson-Ts" height="40" width="70" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
-  <img align="center" alt="Jelson-Ts" height="40" width="70" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-  <img align="center" alt="Jelson-Ts" height="40" width="70" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
-  <img align="center" alt="Jelson-Ts" height="40" width="70" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
-  <img align="center" alt="Jelson-Ts" height="40" width="70" src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge">
-  <img align="center" alt="Jelson-Ts" height="40" width="70" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
-  <img align="center" alt="Jelson-Ts" height="40" width="70" src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D"> 
-</div>
- 
-  ##
-  
-<div>
- <img align="right" alt="Jelson-Olá" height="150" width="100" src="https://media.discordapp.net/attachments/881675315439611924/882758897700569098/Webp.net-gifmaker.gif?width=453&height=453">
-</div>
+## Linguagens, Frameworks e Skills:
+<p align="center">
+  <a href="https://jelson-dev.vercel.app" target="_blank">
+    <img src="https://skillicons.dev/icons?i=java,kotlin,maven,spring,c,cpp,js,ts,nodejs,react,vue,tailwind,git,github,docker,linux,mongodb,mysql&perline=6" alt="Icon de linguagens, frameworks e skills que domino" />
+  </a>
+</p>
