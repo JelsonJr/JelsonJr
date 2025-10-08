@@ -17,7 +17,7 @@
 </section>
 
   - Sou estudante de Eng. Software - [**_UEPG_**](https://www.uepg.br/) 🧑🏽‍🎓
-  - Programador FullStack Júnior - [**_DevHero_**](https://www.devhero.app/) 👨🏻‍💻
+  - Desenvolvedor FullStack - [**_DevHero_**](https://www.devhero.app/) 👨🏻‍💻
   - Fique à vontade para ver os meus projetos! 📚
 
 ## Dados e Status (Github):
